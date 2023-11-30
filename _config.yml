@@ -4,6 +4,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-remote_theme: jekyll/minimal
 include:
   - style.css
