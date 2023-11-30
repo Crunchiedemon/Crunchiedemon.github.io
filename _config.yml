@@ -3,5 +3,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - style.css
+theme: jekyll-theme-hacker
