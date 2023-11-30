@@ -5,14 +5,14 @@ My name is Lucas and I am a solo developer based in the UK. I am working on the 
 
 # Contact Details
 
-* If you have any enquiries about Hatchet Thief Games assets from the Unity Asset store please contact me at crunchiedemonmcmaps@gmail.com.
-* If you have any enquiries about the game Rift Division, please contact me at lucas@riftdivision.com.
+* If you have any enquiries about Hatchet Thief Games assets from the Unity Asset store please contact me at [crunchiedemonmcmaps@gmail.com](mailto:crunchiedemonmcmaps@gmail.com).
+* If you have any enquiries about the game Rift Division, please contact me at [lucas@riftdivision.com](mailto:lucas@riftdivision.com).
 
 # Showcase
 
 ## Rift Division
 
-Rift Division is an indie survival domination first-person shooter game being developed in the Unity game engine. Details about the progress of its development can be found over at the official Rift Division YouTube channel: https://www.youtube.com/@RiftDivision.
+Rift Division is an indie survival domination first-person shooter game being developed in the Unity game engine. Details about the progress of its development can be found over at the official [Rift Division YouTube](https://www.youtube.com/@RiftDivision).
 
 ### Screenshots
 
@@ -20,13 +20,13 @@ Rift Division is an indie survival domination first-person shooter game being de
 
 ![Rift Division Capture Point](/Rift_Division/Rift_Division_2.PNG)
 
-![In-Engine Cinematic](/Rift_Division/Rift_Division_3.PNG)
+![In-Engine Cinematic](/Rift_Division/Rift_Division_3.png)
 
-![Birds Eye View of the Map](/Rift_Division/Rift_Division_4.PNG)
+![Birds Eye View of the Map](/Rift_Division/Rift_Division_4.png)
 
-![Forest](/Rift_Division/Rift_Division_5.PNG)
+![Forest](/Rift_Division/Rift_Division_5.png)
 
-![Dusk](/Rift_Division/Rift_Division_6.PNG)
+![Dusk](/Rift_Division/Rift_Division_6.png)
 
 ## PBR Night Sky Unity Asset
 
